@@ -7,8 +7,8 @@ public class Hello {
 		// Add a new line with your information
 		System.out.println("219845705 - This line was added by Philip Fernandez.");
 		System.out.println("201140788- This line was added by Flor Romero.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
+		System.out.println("213725487 - This line was added by Nikolay Khristyuchenko.");
+		System.out.println("220145966 - This line was added by FranzJrard Colcol.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
@@ -18,3 +18,4 @@ public class Hello {
 	}
 
 }
+
